@@ -1,1 +1,5 @@
-Flask==3.0.3
+flask==3.0.2
+flask-cors==4.0.0
+python-dotenv==1.0.0
+vercel==0.7.3
+serverless-http==3.2.0
